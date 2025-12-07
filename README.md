@@ -16,7 +16,7 @@ The course focuses on essential data cleaning skills in Python, using pandas.
 
 ## Notebook
 
-[View the final notebook](notebook/Data-Cleaning_Kaggle_Course.ipynb) with all exercises and explanations.
+[View the final notebook](notebook/Data-Cleaning_Kaggle_Course_Documentation.ipynb) with all exercises and explanations.
 
 ---
 
